@@ -14,5 +14,4 @@
 ### 7) Print do aplicativo2.com:
 ![Aplicativo2](https://github.com/GabrielCostaLuiz/Servidor_WEB/blob/master/imagens/imagem%2013.png)
 ### 8) Print do workbench acessando o servidor tomcat:
-![Workbench](https://github.com/GabrielCostaLuiz/Servidor_WEB/blob/master/imagens/imagem%2014.png)
 ![Workbench](https://github.com/GabrielCostaLuiz/Servidor_WEB/blob/master/imagens/imagem%2015.png)
